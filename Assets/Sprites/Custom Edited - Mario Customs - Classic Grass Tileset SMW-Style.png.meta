@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 861758b5d4d128c498cbfffb297848af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850214eefe4baa47824645fae49896d
+      internalID: -917095003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb28ec6f96b3342b118d386f749b05
+      internalID: 1372257061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e2285d9dc2bb4dbf660783e4a9c50
+      internalID: -535036335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41c462128e3e949bf0f5607f2f1551
+      internalID: -28918207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e569e153624fb4fbe3643d9e1fc656
+      internalID: 155008244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9974a2edc6a29d4db9ca256733320f7
+      internalID: -812255608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333578edaee24af4c86a7d76af2c49ec
+      internalID: 1497483947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc8c714210bf5d458447a99c95b470e
+      internalID: 919965586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f67af1843945458f30dfe1980f93e
+      internalID: 840931303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0e2c7ad3d73542bd244b8db124f19
+      internalID: -981122990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef167328b3a2dfd4f9fd2bf719c76d98
+      internalID: -772206721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c80aacd96af24eaf468ef096c1815
+      internalID: -461811746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec4e4cbe898be449e62e44053be962
+      internalID: -1658367490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70a40d7347c1642953e487771b8011
+      internalID: -663735348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f801df1a2c08334f9ca563c8fe5523c
+      internalID: 306629880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf7818661f3784c8719b150e4f94de
+      internalID: 1811070908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2982c3d80bd0340b2750ed26b5aa3c
+      internalID: 1969147023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069bc84c5e54a8449aab9b0650f8d4a
+      internalID: -1687592174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e67a6cdd63d14a83bf72a7bf53525
+      internalID: 996035244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a7f7d4f2f843d49b34a6a9ab589fa5
+      internalID: 629498847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c8667e7816d84d947059579ae045d
+      internalID: -1565953508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d10a054ae38941b707a5f7e5aed9b
+      internalID: -994987403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea717f4eb078d4cb531b27517ea574
+      internalID: 832571768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4be98ef3ccb464ca62b9f135029d95
+      internalID: -2004782538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c922ccdcc97f8438e68288c258eae6
+      internalID: -1050249496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976cd306837fd64e9731b0081ab8080
+      internalID: 1868517292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498072c1e982caf4598b74c3445d9655
+      internalID: -1919769377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e307ee34f604004385658daa32183ee
+      internalID: -749648671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703846b61408b95418229888168cc6c6
+      internalID: 1531674070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd7385681a2b324ca3c397232e6cd14
+      internalID: -1041240571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735b2bd066a93a4997bf99dbe7977be
+      internalID: -312354184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd8b2eda95c1445a32b919f1f7700d
+      internalID: -1761952769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7793e590fd8f7d4787bba7cb39aedb5
+      internalID: -633221221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e5f5c031e8184d9d6744cd82d8f77
+      internalID: -981961479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abca80b4279b4f4a875389ff4e7fc25
+      internalID: 465782076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8859710310ee4e9f8d429bffe76ff
+      internalID: -830971579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef3bbac0d71514ca59d351198ab050
+      internalID: -1011483252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef72f0ea57bbb34d9421a7ac50e5ee0
+      internalID: -864844237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a31d88cfb94d4b8d7a4ac41138ead
+      internalID: 560571354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd273b227267ee44b4a3792e0872fd4
+      internalID: 1844618489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237fbab1f355fe468eb5d41ce02797f
+      internalID: 1328497459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceeaefb86256e941b5a883018b44660
+      internalID: -1953948605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3832f471adf6564baad74b51fad4013
+      internalID: 1224902337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69484a893b05c4881d2bc932722f71
+      internalID: -1266712010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af23e91a4f75a4c876ec8f7c5b7484
+      internalID: -999904838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e04156683b7f04f998308b15c20d39
+      internalID: -957868635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48820797698e0468ae948555fbb095
+      internalID: 1209301203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44314fbe2857e954ea1b13f16b3668e1
+      internalID: 237147686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f113d3a01373f4eb300e00cb955020
+      internalID: 1708620154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee68154a846434d96d2392e7f08a67
+      internalID: -1654714026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c0c262aff6fe479fd91fa7003c0bd
+      internalID: -336461177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7a1ca4bbe91c4fa9d403877754690
+      internalID: -581653951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90938a7d537a15a4eb019a63904cfcd4
+      internalID: -1126309521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba99738d66888458d045a05bf97ef3
+      internalID: 1460671362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1999af2575a43c4b84d8a91be6ad76f
+      internalID: -101937593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1dd456e5d980246acfbfc30caae933
+      internalID: 1822022311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f7025cc8bce149b9d940b2999007f
+      internalID: 385039774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0613e989f7044092118af50117a7a
+      internalID: -1289943620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd5265c86cd8c46a3683029c3a46d7
+      internalID: -1618156735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da00b87a2ef3048a58f37c453ac06c
+      internalID: 1402213582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237adc02b5c1aee478087c4fc3259d36
+      internalID: 150078702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5d5859cf64db84da62c9a85a1afe52
+      internalID: 1227397232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9092aac7468845b8a91444aea9a12
+      internalID: 857314682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d7abc3ba09b346b309d712c44f7e0
+      internalID: -2100363490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64675a0828742f9488b60a058c578c86
+      internalID: 1747221196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c90e5a9ebc0a848bcb4600a5a74974
+      internalID: -1761058705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b599a1699fdae1b429e35c90ce50a07b
+      internalID: 1433090016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834125cce3484484a991966a87809e01
+      internalID: 527298524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d0f798b61be834a9a2f8c6f596d60c
+      internalID: -1536923298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42baac616fee0b7418ede6b37b344bb3
+      internalID: -1060276536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babdda7fff4e6f641995e3e28238fb16
+      internalID: -2091278427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698e29eb34db5ec4fb8c8c53f202a815
+      internalID: 1563030625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfaeb645f3efd4a8601651dbe7352e
+      internalID: -577869489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e95b53b80bc34390417ac4b6e954a
+      internalID: -161110895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_74
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f79923f4795a48859f5a3a6ac1a6d
+      internalID: 1236940887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520810af3b07a94458a499a1daa83ab2
+      internalID: 1431745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49daaa33d2c88914095fc601d65ebd76
+      internalID: -1206674900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93833c97b412240b769b14850b2b2a
+      internalID: -1067012031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b18ad3948267c4eb19e151c7d00ea6
+      internalID: 563325408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf40fa9b643b14db75478d690b7219
+      internalID: 1526051942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1227bca0dbde63842b0c385a60dd76c1
+      internalID: -974037892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a2ac6718e2de4faf75c9044961e42
+      internalID: 1324322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c386ad290cf2448c08f51d28f7e71
+      internalID: -727130970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cc134965d5ab419dfef1067d999a8
+      internalID: -641507859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe96218ead2d954cbf4bb81a3b0f214
+      internalID: 725580185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55aac0200234c644a9746c747e761f5
+      internalID: 186504707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9da3356505874aaeeac1c423281b3
+      internalID: -1149658658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fba464a5a20874ebdf6bfad5016969
+      internalID: -1161033627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc9ef0149e69343be9443c41aa6e8f
+      internalID: -1074789350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b96e52ce1fa454f84d82222ed0065d
+      internalID: 723193049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_90
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4de42df4478ad4ab3a2b6fbffc357e
+      internalID: 1005118099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33db280ece1dca498b13c8bcccf8bf6
+      internalID: -941161727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d2752b899f8e4e95cf2f848d29d9f
+      internalID: -1575813293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0167726f254e5cc41bff58e78e7cc3f6
+      internalID: -1803486905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ed7e87abba1944ae7350728f652af
+      internalID: -1819261894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb16e3c6c96de409abf4fc39f90313
+      internalID: 1092028283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_0: -917095003
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_1: 1372257061
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_10: -772206721
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_11: -461811746
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_12: -1658367490
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_13: -663735348
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_14: 306629880
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_15: 1811070908
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_16: 1969147023
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_17: -1687592174
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_18: 996035244
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_19: 629498847
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_2: -535036335
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_20: -1565953508
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_21: -994987403
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_22: 832571768
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_23: -2004782538
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_24: -1050249496
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_25: 1868517292
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_26: -1919769377
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_27: -749648671
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_28: 1531674070
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_29: -1041240571
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_3: -28918207
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_30: -312354184
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_31: -1761952769
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_32: -633221221
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_33: -981961479
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_34: 465782076
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_35: -830971579
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_36: -1011483252
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_37: -864844237
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_38: 560571354
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_39: 1844618489
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_4: 155008244
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_40: 1328497459
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_41: -1953948605
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_42: 1224902337
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_43: -1266712010
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_44: -999904838
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_45: -957868635
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_46: 1209301203
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_47: 237147686
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_48: 1708620154
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_49: -1654714026
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_5: -812255608
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_50: -336461177
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_51: -581653951
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_52: -1126309521
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_53: 1460671362
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_54: -101937593
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_55: 1822022311
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_56: 385039774
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_57: -1289943620
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_58: -1618156735
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_59: 1402213582
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_6: 1497483947
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_60: 150078702
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_61: 1227397232
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_62: 857314682
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_63: -2100363490
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_64: 1747221196
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_65: -1761058705
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_66: 1433090016
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_67: 527298524
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_68: -1536923298
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_69: -1060276536
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_7: 919965586
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_70: -2091278427
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_71: 1563030625
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_72: -577869489
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_73: -161110895
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_74: 1236940887
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_75: 1431745102
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_76: -1206674900
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_77: -1067012031
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_78: 563325408
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_79: 1526051942
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_8: 840931303
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_80: -974037892
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_81: 1324322950
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_82: -727130970
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_83: -641507859
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_84: 725580185
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_85: 186504707
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_86: -1149658658
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_87: -1161033627
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_88: -1074789350
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_89: 723193049
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_9: -981122990
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_90: 1005118099
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_91: -941161727
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_92: -1575813293
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_93: -1803486905
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_94: -1819261894
+      Custom Edited - Mario Customs - Classic Grass Tileset SMW-Style_95: 1092028283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

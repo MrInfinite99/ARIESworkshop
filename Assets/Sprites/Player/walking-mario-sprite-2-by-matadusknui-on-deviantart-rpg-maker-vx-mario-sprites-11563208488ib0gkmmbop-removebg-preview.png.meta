@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 35750b9d27373944c8aab855672a1f8e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0def78755f7659e4f9a52a98fc5dcfce
+      internalID: 1122481385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be230598a9682fe499105285448cd7af
+      internalID: 1565133580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7e2a943ed24c46a4243e2d8372991
+      internalID: 1934439831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99f25e3fb03b44a8ec077d79500c0f
+      internalID: -1400604557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a8bf319f590749b299e147a52e9af
+      internalID: -1226552006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1062186d39a3694e8a2fc0ffc62f6e9
+      internalID: -1273906633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47815b7875c079a47beaf04694d73dfe
+      internalID: 802843369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee4404207633c4d90654ddf4b69a2b
+      internalID: 1604729812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03acd0c61a3e54bb2860c69c347750
+      internalID: 686178779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b89756abeb4814c8114337e5e02edf
+      internalID: -10283089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1674a066f1534bb5c0863e66d4966
+      internalID: 1159814312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 228
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330d7f2f2955fa4290c6b00f2824d39
+      internalID: 289947284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd24ab3a8d92554bbe90d48f1cdf997
+      internalID: -2038075287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aea714be1056448aea0f3eea1c00d7
+      internalID: 393393820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2027af2a001a35459ead9ff743c2fd7
+      internalID: -451230488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ced752bca759bf4a854f4c58b246a36
+      internalID: -412602938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60033966ce2aa64a9009f72591bc756
+      internalID: -1851758384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d954f67dd4694abec1cdc21a0b519
+      internalID: -2082659249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fdfdacf368c7445a56496ea6fe512d
+      internalID: 1908668568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435760f94bb2da419a704d6968e111f
+      internalID: -1973302380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bbede7c9d7f464499f875d545e3a48
+      internalID: -701395146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1c086ddc0e9d49936d33ebcfe97ed
+      internalID: 1455591415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101ddb8ca69962b4c9382a705356ddc3
+      internalID: -1767687730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 156
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62db3fe6a354e479a261a39b5bba27
+      internalID: 566080674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b2ed4f83f2c847a2a163f992ab49c
+      internalID: -1043876706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5508e1919fd55ca429f26f41275c333e
+      internalID: 23877792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb652cba942bfab41a630537fb5770d7
+      internalID: -457393336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5557f1a7e0e1fa4459b03d40292c14ae
+      internalID: -470868452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd70fd2425e752408804be5f4159e7c
+      internalID: -145179117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a4d437454ed34b8360b81478edad9
+      internalID: 397884755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2c0fddb5d5114aae05c65f748f0b3
+      internalID: 2019955252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f2b19c8caa7c45bf845e5d5071b00
+      internalID: -683075298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629a9830c276264596b8d0f0542c84e
+      internalID: 359183713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae880d02d91164c9cca711bdc78788
+      internalID: 1186571966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0332b4dbbccc3b84784862d0e6815682
+      internalID: -1270146954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 84
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990da9a43b0398f448c92ca9df6a6f27
+      internalID: 1843008335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ab31c0574b00468c9d0573fb51fba
+      internalID: -855258468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c56a08677c804d97f23856714e20c
+      internalID: 1493093376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3a0829bd8b0d47b7f01d8e291af98
+      internalID: 1637087349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ab4748d4d86e48a52d889a66211d1
+      internalID: -317954151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43872f164df32ca4a8a3e58b3479208d
+      internalID: 1237845169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28388e66739738749a14f31ed82c5ecd
+      internalID: -2045191699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247c385238b69c409f6bd29d0cf196a
+      internalID: 1275832290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ab547925baac459a235006aa7f1a9
+      internalID: -1767140408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7ab2c94218d940923b0c2c207ea9d
+      internalID: 954471003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42c5384384625448a4a399c89da8f2
+      internalID: 65176792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d39adb6937b048b9b93b534f59e13
+      internalID: 1742352911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcaebd4260ac484c977d4b1be898f30
+      internalID: -970704343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_0: 1122481385
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_1: 1565133580
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_10: 1159814312
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_11: 289947284
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_12: -2038075287
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_13: 393393820
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_14: -451230488
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_15: -412602938
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_16: -1851758384
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_17: -2082659249
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_18: 1908668568
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_19: -1973302380
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_2: 1934439831
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_20: -701395146
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_21: 1455591415
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_22: -1767687730
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_23: 566080674
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_24: -1043876706
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_25: 23877792
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_26: -457393336
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_27: -470868452
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_28: -145179117
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_29: 397884755
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_3: -1400604557
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_30: 2019955252
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_31: -683075298
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_32: 359183713
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_33: 1186571966
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_34: -1270146954
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_35: 1843008335
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_36: -855258468
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_37: 1493093376
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_38: 1637087349
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_39: -317954151
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_4: -1226552006
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_40: 1237845169
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_41: -2045191699
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_42: 1275832290
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_43: -1767140408
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_44: 954471003
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_45: 65176792
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_46: 1742352911
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_47: -970704343
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_5: -1273906633
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_6: 802843369
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_7: 1604729812
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_8: 686178779
+      walking-mario-sprite-2-by-matadusknui-on-deviantart-rpg-maker-vx-mario-sprites-11563208488ib0gkmmbop-removebg-preview_9: -10283089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
