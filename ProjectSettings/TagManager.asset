@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - saw
+  - Ground
+  - Spike
+  - Coin
+  - TreasureBox
+  - PowerUp
   layers:
   - Default
   - TransparentFX
@@ -38,6 +45,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Bckground
+    uniqueID: 3408544005
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 345736457
     locked: 0
